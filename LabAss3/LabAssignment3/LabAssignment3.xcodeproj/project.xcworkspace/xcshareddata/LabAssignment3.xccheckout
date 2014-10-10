@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D1BA1BEA-C7A1-45E8-BBCC-D69678C976D9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LabAssignment3</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E0BDCF202F4FB0AA37473B51C167F78E76E70B5A</key>
+		<string>github.com:howzlife/CSI2372.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LabAss3/LabAssignment3/LabAssignment3.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E0BDCF202F4FB0AA37473B51C167F78E76E70B5A</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:howzlife/CSI2372.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E0BDCF202F4FB0AA37473B51C167F78E76E70B5A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E0BDCF202F4FB0AA37473B51C167F78E76E70B5A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>C++</string>
+		</dict>
+	</array>
+</dict>
+</plist>
