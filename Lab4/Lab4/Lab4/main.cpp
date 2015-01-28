@@ -7,9 +7,27 @@
 //
 
 #include <iostream>
+#include "house.h"
+using namespace std;
+
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+
+    House myHouse;
+    
+    WaterHeater* st = new StorageTank(1000, WaterHeater::Gas, 8.0, 0.55);
+    myHouse.installWaterHeater(st, true, true);
+
+    House otherHouse = *new House(myHouse);
+    
+    myHouse.removeWaterHeater();
+    
+    WaterHeater* st2 = new Tankless(2000, WaterHeater::Electric, 12.0, 0.93);
+    otherHouse.installWaterHeater(st2, false, true);
+
+    myHouse.printWaterHeater();
+    
+    otherHouse.printWaterHeater();
+    
     return 0;
 }
